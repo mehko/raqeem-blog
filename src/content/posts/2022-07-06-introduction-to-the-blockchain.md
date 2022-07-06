@@ -6,7 +6,7 @@ date: 2021-12-21 15:13
 description: "Introduction the halal blockchain principles "
 featuredImage: https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2532&q=80
 ---
-![introduction-blockchain](https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2532&q=80 "what is blockchain")
+![introduction-blockchain](/assets/shubham-dhage-t9rkvi3n0nm-unsplash.jpg "what is blockchain")
 
 # **What is blockchain?**
 
