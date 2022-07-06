@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Raqeem
 tagline: Halal Marketplace
-featuredImage: /assets/image3.png
+featuredImage: static/assets/image3.png
 cta:
   ctaText: Know more
   ctaLink: /about
