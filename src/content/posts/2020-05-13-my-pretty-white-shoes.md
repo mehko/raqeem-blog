@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Blockchain Token and evolution of the web
-slug: internet-evolution
+slug: /internet-evolution
 date: 2022-01-10 12:55
 description: Blockchain Token and evolution of the web
 featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
