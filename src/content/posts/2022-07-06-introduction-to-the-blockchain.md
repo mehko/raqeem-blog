@@ -6,9 +6,9 @@ date: 2021-12-21 15:13
 description: "Introduction the halal blockchain principles "
 featuredImage: https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2532&q=80
 ---
+![introduction-blockchain](https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2532&q=80 "what is blockchain")
 
-
-**What is blockchain?**
+# **What is blockchain?**
 
 **A blockchain is a linked list of transactions stored on a network of computers.**
 
@@ -26,8 +26,6 @@ Each block has:
 2. A hash (a long string of random characters) for the block
 3. The previous block’s hash (this is how the blocks are linked)
 
-
-
    ![block-transactions](https://931184.smushcdn.com/2419704/wp-content/uploads/2021/12/block-chains-1024x442.png?lossy=1&strip=1&webp=1 "transactions between blocks")
 
    Let’s take a look at how a transaction works on the blockchain.
@@ -42,8 +40,6 @@ Each block has:
    Ahmad can send Fajar **1 WASA** in three steps:
 
    ![success-transactions-blocks](https://931184.smushcdn.com/2419704/wp-content/uploads/2021/12/block-chains2-1024x321.png?lossy=1&strip=1&webp=1 "successfull tansaction between blocks")
-
-
 
    1. Ahmad tells his wallet: “I want to send 1 WASA from my public address to Fajar’s public address.” Ahmad signs this transaction based on his private key. This signature proves that Ahmad actually owns 1 WASA.
    2. Ahmad’s wallet sends the transaction to nodes on the blockchain. These nodes then verify the transaction using Ahmad’s signature and public key.
