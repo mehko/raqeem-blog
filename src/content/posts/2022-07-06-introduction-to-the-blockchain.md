@@ -6,8 +6,6 @@ date: 2021-12-21 15:13
 description: "Introduction the halal blockchain principles "
 featuredImage: /assets/shubham-dhage-t9rkvi3n0nm-unsplash.jpg
 ---
-![introduction-blockchain](/assets/shubham-dhage-t9rkvi3n0nm-unsplash.jpg "what is blockchain")
-
 # **What is blockchain?**
 
 **A blockchain is a linked list of transactions stored on a network of computers.**
