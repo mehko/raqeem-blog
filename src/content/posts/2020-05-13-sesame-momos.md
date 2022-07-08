@@ -9,5 +9,4 @@ featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
 \# Sesame Momos
 
 
-
-<div data-tf-widget="oMxHQm5k" data-tf-opacity="93" data-tf-iframe-props="title=Schedule a Demo For Raqeem" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<iframe src="https://wgwwuk3f50y.typeform.com/to/oMxHQm5k" name="BookADemo" style="border: hidden #000000;"></iframe>
