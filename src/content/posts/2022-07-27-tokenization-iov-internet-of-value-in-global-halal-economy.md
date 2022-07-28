@@ -4,6 +4,7 @@ title: Tokenization & IoV (Internet of Value) in global Halal economy
 slug: /tokenization-internet-of-value
 date: 2022-07-27 19:53
 description: What is Internet of Value and what is the benefits in global Halal economy.
+featuredImage: /assets/introducing-digital-collectibles-to-showcase-nfts-on-instagram_header-1.jpg
 ---
 We will talk about the Internet of Value, specifically how a token can become valuable or how to create a token and what the different types of tokens that exist on blockchain technologies.
 
