@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Raqeem
 tagline: Unlock the world of Halal Relationship 3.0
-featuredImage: /assets/tezos-w_v34lsj7ew-unsplash.jpg
+featuredImage: /assets/diapositive1.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
