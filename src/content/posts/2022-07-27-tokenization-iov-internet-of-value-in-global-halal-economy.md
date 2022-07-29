@@ -62,4 +62,4 @@ Crypto assets are exchangeable 24/7 without intermediaries in a transparent and 
 
 We have just talked about the Internet of Value, like transferring and exchanging value whether it is a physical product or a service, without altering its proper value between several people from country to country in a few seconds without any intermediary. The possibilities are multiple and limitless, our imagination could build future use cases to make the halal economy evolve.
 
-*The best way to predict the future is to build it yourself*
+> *The best way to predict the future is to build it yourself*
