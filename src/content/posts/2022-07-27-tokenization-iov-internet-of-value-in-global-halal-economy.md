@@ -12,17 +12,17 @@ Let's talk about the Internet of Value, specifically how a token can become valu
 
 * **1990** creation of the internet: transmitting information has never been so easy
 
-Transferring information that was originally communicated in the press has never been easier thanks to email, websites, blogs …
+> Transferring information that was originally communicated in the press has never been easier thanks to email, websites, blogs …
 
 * **2008** arrival of Bitcoin and blockchain technology: transferring value has never been easier.
 
-Transferring value that was initially only possible through an intermediary (trusted third party, banks etc.) is now possible thanks to Token transfer via blockchain technology.
+> Transferring value that was initially only possible through an intermediary (trusted third party, banks etc.) is now possible thanks to Token transfer via blockchain technology.
 
 *A token takes value first when it has a use, it is the supply and demand that will define its value.*
 
 * **2015** came to Ethereum and smart contracts: It was built based on the same blockchain protocol as Bitcoin, and it is now possible to execute smart contracts.
 
-Smart contracts are computer codes that can be executed within the Ethereum blockchain. The code is independent, searchable, and immutable, which means that it cannot be modified.
+> Smart contracts are computer codes that can be executed within the Ethereum blockchain. The code is independent, searchable, and immutable, which means that it cannot be modified.
 
 ## A simple line of code
 
@@ -32,9 +32,7 @@ Your money is a line of code, the dollar of your bank account is a token, which 
 
 Let's take the case of the US Dollar to transfer 1 USD from bank A to bank B, it will be necessary to change the network of the central bank, which will credit bank B with 1 USD.
 
-To return to the "Token" Dollar its code and its rules of operation which govern the creation of money and the interest rate of the central bank are unknown to most people.
-
-Its rules evolve regularly according to the laws and regulations.
+To return to the "Token" Dollar its code and its rules of operation which govern the creation of money and the interest rate of the central bank are unknown to most people. Its rules evolve regularly according to the laws and regulations.
 
 Basically we already use tokens without knowing it and without knowing its code and how it works in detail.
 
@@ -46,7 +44,7 @@ There are several types of tokens, the most famous are:
 
 * Fungible Tokens or “ERC20” (Ethereum blockchain)
 
-The US Dollar is fungible because it is interchangeable 1 USD equals 1 other USD: if you buy an item for 5 USD in a store and you decide to get your money back a few days later, you will get 5 USD back, not necessarily the 5 USD you gave. It is therefore fungible.
+The US Dollar is fungible because it is interchangeable 1 USD equals 1 other USD: if you buy an item for 5 USD in a store and you decide to get your money back a few days later, you will get 5 USD back, not necessarily the 5 USD you gave, it is therefore fungible.
 
 * Non-Fungible Tokens or “ERC721” (Ethereum blockchain)
 
