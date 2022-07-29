@@ -6,7 +6,7 @@ date: 2022-07-27 19:53
 description: What is Internet of Value and what is the benefits in global Halal economy.
 featuredImage: /assets/introducing-digital-collectibles-to-showcase-nfts-on-instagram_header-1.jpg
 ---
-We will talk about the Internet of Value, specifically how a token can become valuable or how to create a token and what the different types of tokens that exist on blockchain technologies.
+Let's talk about the Internet of Value, specifically how a token can become valuable or how to create a token and what the different types of tokens that exist on blockchain technologies.
 
 ## Evolutions of web
 
@@ -25,6 +25,8 @@ Transferring value that was initially only possible through an intermediary (tru
 Smart contracts are computer codes that can be executed within the Ethereum blockchain. The code is independent, searchable, and immutable, which means that it cannot be modified.
 
 ## A simple line of code
+
+![lines of code](/assets/photo-1487058792275-0ad4aaf24ca7.jpg "Just lines of codes")
 
 Your money is a line of code, the dollar of your bank account is a token, which means that it is a line of code compatible with your bank's network.
 
